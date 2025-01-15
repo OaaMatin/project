@@ -1,0 +1,19 @@
+5 + 4
+5 + 4
+5+3
+5+3
+cd "c:\Users\matin\Desktop\test\" ; if ($?) { g++ main.cpp -o main } ; if ($?) { .\main }
+5 + 1
+4 + 3
+5 
+5+4
+4
+5+4
+343433433cd "c:\Users\matin\Desktop\test\" ; if ($?) { g++ main.cpp -o main } ; if ($?) { .\main }
+5 + 4
+3+2
+5 + 9
+5 + 9
+3+2
+4+5
+3+4
