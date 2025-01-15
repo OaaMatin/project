@@ -79,7 +79,7 @@ int main()
 
 
         while(ch!=13){
-            SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
+            //SetConsoleTextAttribute(hConsole, FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE);
             if (ch == '+')
             {
                 SetConsoleTextAttribute(hConsole, FOREGROUND_RED);
